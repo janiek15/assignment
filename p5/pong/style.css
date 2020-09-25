@@ -1,0 +1,32 @@
+body {
+    background-image: url("img/back.jpg");
+    background-repeat : no-repeat;
+    background-size: cover;
+   }
+
+.button {
+    padding: 16px 32px;
+    display: block; 
+    justify-content :flex-start;
+    position: relative;
+    top: 0;
+    left: 160px;
+    right: -420px;
+    bottom: -191px;
+}
+
+#reset{
+    font-size: 20px;
+    background-color: white;
+    border: solid;
+    border-radius: 8px;
+    color: black;
+}
+
+#rank{
+    font-size: 20px;
+    background-color: white;
+    border: solid;
+    border-radius: 8px;
+    color: black;
+}
